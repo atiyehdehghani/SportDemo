@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SportMarket.Api/SportMarket.Api.csproj" />
+    <Project Path="src/SportMarket.Application/SportMarket.Application.csproj" />
+    <Project Path="src/SportMarket.Domain/SportMarket.Domain.csproj" />
+    <Project Path="src/SportMarket.Infrastructure/SportMarket.Infrastructure.csproj" />
+  </Folder>
+</Solution>
